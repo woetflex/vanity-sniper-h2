@@ -1,4 +1,4 @@
-# woetflex
+# woet
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:24104f,100:7c3aed&height=220&section=header&text=woetflex&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=lost%20in%20my%20own%20world&descAlignY=60&descSize=17" width="100%" />
